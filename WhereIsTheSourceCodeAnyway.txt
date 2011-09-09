@@ -1,0 +1,14 @@
+The source code for ArduCopter is now held in the main ArduPilotMega
+git repository.
+
+The git URL is:
+
+ https://code.google.com/p/ardupilot-mega
+
+More information on using the git repository is available here:
+
+  http://code.google.com/p/ardupilot-mega/wiki/Git
+
+or for command line users, here:
+
+  http://code.google.com/p/ardupilot-mega/wiki/GitCLI
